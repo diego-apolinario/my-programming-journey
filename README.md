@@ -1,10 +1,10 @@
-**My Programming Journey**
+# My Programming Journey
 
 Hello! My name is Diego Apolinário, and I am beginning my journey into the world of programming and technology.
 
 This repository will be used to document my learning, share projects, and track my progress as a developer.
 
-**Goals**
+# Goals
 
 Learn programming logic.
 
@@ -14,11 +14,11 @@ Create practical projects.
 
 Build a development portfolio.
 
-**Courses and Studies**
+# Courses and Studies
 
-**CS50 – Introduction to Computer Science (Harvard)**
+# CS50 – Introduction to Computer Science (Harvard)
 
-**Week 0 – Scratch**
+## Week 0 – Scratch
 
 First assignment completed and submitted for evaluation.
 
@@ -26,7 +26,15 @@ First experience with visual programming.
 
 Practice of fundamental programming logic concepts.
 
-**Projects**
+## Week 1 - C
+
+First experience with C language.
+
+Watched the lecture and now i'm doing the assignments
+
+Practicing the logical fundamentals learned last week.
+
+# Projects
 
 New projects will be added as I progress in my studies.
 
