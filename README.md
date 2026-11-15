@@ -30,9 +30,9 @@ Practice of fundamental programming logic concepts.
 
 First experience with C language.
 
-Watched the lecture and now i'm doing the assignments
-
 Practicing the logical fundamentals learned last week.
+
+All assignments done. Some more quickly than others.
 
 # Projects
 
