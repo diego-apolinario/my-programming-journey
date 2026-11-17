@@ -34,6 +34,12 @@ Practicing the logical fundamentals learned last week.
 
 All assignments done. Some more quickly than others.
 
+## Week 2 - Arrays
+
+Beginning the week 2 watching the lecture.
+
+Getting familiar with the new knowledges
+
 # Projects
 
 New projects will be added as I progress in my studies.
