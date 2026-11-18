@@ -36,9 +36,13 @@ All assignments done. Some more quickly than others.
 
 ## Week 2 - Arrays
 
-Beginning the week 2 watching the lecture.
+Lecture watched.
 
-Getting familiar with the new knowledges
+Diving more deep into C language.
+
+Getting familiar with the new knowledges.
+
+Starting with the assignments.
 
 # Projects
 
