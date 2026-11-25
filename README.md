@@ -36,13 +36,17 @@ All assignments done. Some more quickly than others.
 
 ## Week 2 - Arrays
 
-Lecture watched.
-
 Diving more deep into C language.
 
 Getting familiar with the new knowledges.
 
-Starting with the assignments.
+All assignments done.
+
+Getting fun with de challanges. Time goes by and i can't even notice.
+
+## Week 3 - Algorithms
+
+Preparing to start...
 
 # Projects
 
