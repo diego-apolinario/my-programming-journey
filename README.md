@@ -46,7 +46,11 @@ Getting fun with de challanges. Time goes by and i can't even notice.
 
 ## Week 3 - Algorithms
 
-Preparing to start...
+Watched the lecture.
+
+Learned more about algorithms and for the first i've contact with the concept of recursion.
+
+Have began to work in the assignments and already conclude the first.
 
 # Projects
 
